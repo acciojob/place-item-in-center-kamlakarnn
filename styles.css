@@ -1,7 +1,4 @@
-.holder{
-display:flex;
-justify-content:centre;
-}
+
 /* Your CSS Code here. */
 .item-item-1{
 display:flex;
@@ -10,4 +7,22 @@ height:100px;
 background-color:red;
 align-items:center
 
+}
+
+
+/* .holder {
+display:flex;
+justify-content:centre;
+align-items:centre;
+width:100vw;
+height:100vh
+
+} */
+
+.holder{
+display:flex;
+justify-content:center;
+align-items:center;
+width:100vw;
+height:100vh;
 }
